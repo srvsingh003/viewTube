@@ -1,0 +1,22 @@
+{
+  "name": "viewtube",
+  "version": "1.0.0",
+  "description": "Backend for viewTube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backened",
+    "frontend"
+  ],
+  "author": "Saurabh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {}
+}
